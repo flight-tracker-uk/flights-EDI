@@ -25,152 +25,293 @@ jobs:
       max-parallel: 10
       matrix:
         destination:
+
           - ACE
+
           - AGA
+
           - AGP
+
           - ALC
+
           - AMS
+
           - ARN
+
           - ATH
+
           - AYT
+
           - BCN
+
           - BER
+
           - BFS
+
           - BGO
+
           - BGY
+
           - BHD
+
           - BHX
+
           - BIO
+
           - BIQ
+
           - BJV
+
           - BLL
+
           - BLQ
+
           - BOD
+
           - BOH
+
           - BOJ
+
           - BRI
+
           - BRS
+
           - BRU
+
           - BSL
+
           - BTS
+
           - BUD
+
           - BZR
+
           - CDG
+
           - CFU
+
           - CGN
+
+          - CIA
+
           - CMF
+
           - CPH
+
+          - CRL
+
           - CTA
+
           - DBV
+
           - DLM
-          - DOH
+
           - DUB
+
           - DUS
-          - DXB
+
           - EAS
+
           - EFL
+
           - EGC
+
           - EXT
+
           - FAE
+
           - FAO
+
           - FCO
+
           - FLR
+
           - FNC
+
           - FRA
+
           - FUE
+
           - GCI
+
           - GDN
+
           - GIB
+
           - GNB
+
           - GOT
+
           - GRO
+
           - GVA
+
           - HEL
+
           - HER
-          - HRG
+
           - IBZ
+
           - INN
+
           - IOM
+
           - IST
+
           - JER
+
           - JSI
+
           - JTR
+
           - KEF
+
           - KGS
+
           - KLX
+
           - KOI
+
           - KRK
+
           - KUN
+
           - LCA
+
           - LCY
+
           - LDY
+
           - LGW
+
           - LHR
+
           - LIS
+
           - LJU
+
           - LPA
+
           - LSI
+
           - LTN
+
           - LUX
+
           - LYS
+
           - MAD
+
           - MAH
+
           - MLA
+
           - MRS
+
           - MUC
+
           - MXP
+
           - NAP
+
           - NBE
+
           - NCE
+
           - NOC
+
           - NQY
+
           - NTE
+
           - OLB
+
           - OPO
+
           - ORK
+
           - ORY
+
           - OSL
+
           - OTP
+
           - PFO
+
           - PIS
+
           - PMI
+
           - PMO
+
           - POZ
+
           - PRG
+
           - PSA
+
           - PVK
+
           - RAK
+
           - REU
+
           - RHO
+
           - RIX
+
           - RVN
+
           - RZE
+
           - SDR
-          - SID
+
           - SKG
+
           - SNN
+
           - SOF
+
           - SOU
+
           - SPU
-          - SSH
+
           - STN
+
           - STR
+
           - SVQ
+
           - SYY
+
           - SZG
+
           - TFS
+
           - TIA
+
           - TLL
+
           - TLS
+
           - TRN
+
           - VCE
+
           - VIE
+
           - VLC
+
           - VRN
+
           - WAW
+
           - WRO
+
           - ZAD
+
           - ZRH
+
           - ZTH
 
     steps:

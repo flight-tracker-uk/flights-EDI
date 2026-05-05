@@ -1,4 +1,4 @@
-"""Edinburgh Airport (EDI) destinations — April 2026."""
+"""Edinburgh Airport (EDI) destinations — May 2026."""
 
 DESTINATIONS = {
     "EDI": {
@@ -37,15 +37,15 @@ DESTINATIONS = {
             "CDG": "Paris CDG",
             "CFU": "Corfu",
             "CGN": "Cologne Bonn",
+            "CIA": "Rome Ciampino",
             "CMF": "Chambery",
             "CPH": "Copenhagen",
+            "CRL": "Brussels Charleroi",
             "CTA": "Catania",
             "DBV": "Dubrovnik",
             "DLM": "Dalaman",
-            "DOH": "Doha",
             "DUB": "Dublin",
             "DUS": "Dusseldorf",
-            "DXB": "Dubai",
             "EAS": "San Sebastian",
             "EFL": "Kefalonia",
             "EGC": "Bergerac",
@@ -66,7 +66,6 @@ DESTINATIONS = {
             "GVA": "Geneva",
             "HEL": "Helsinki",
             "HER": "Heraklion",
-            "HRG": "Hurghada",
             "IBZ": "Ibiza",
             "INN": "Innsbruck",
             "IOM": "Isle of Man",
@@ -125,13 +124,11 @@ DESTINATIONS = {
             "RVN": "Rovaniemi",
             "RZE": "Rzeszow",
             "SDR": "Santander",
-            "SID": "Sal",
             "SKG": "Thessaloniki",
             "SNN": "Shannon",
             "SOF": "Sofia",
             "SOU": "Southampton",
             "SPU": "Split",
-            "SSH": "Sharm El Sheikh",
             "STN": "London Stansted",
             "STR": "Stuttgart",
             "SVQ": "Seville",
